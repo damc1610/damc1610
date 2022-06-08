@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/damc1610](https://github.com/damc1610)
 
-- ⏳ Long term goals: **I would like to learn other programming languages, such as html, java, css, among others.](I would like to learn other programming languages, such as html, java, css, among others.**
+- ⏳ Long term goals: **I would like to learn other programming languages, such as html, java, css, among others..**
 
 - 💬 Ask me about: **PYTHON, SQL, Cryptocurrencies, Binance, Wallets**
 
