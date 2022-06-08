@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel A. Martinez C.</h1>
+<h1 align="left">Hi 👋, I'm Daniel A. Martinez C.</h1>
 <h3 align="left">Future Data Analyst, looking for an opportunity to demonstrate my acquired knowledge. Passionate about new technologies, I like cryptocurrencies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damc1610&label=Profile%20views&color=0e75b6&style=flat" alt="damc1610" /> </p>
