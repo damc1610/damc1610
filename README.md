@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [Manual to learn how to use Binance to receive cryptocurrency payments through the P2P marketplace.](https://www.notion.so/Curso-de-Binance-871542e7e5814dbc83b24a6b4205270d)
 
-- 🌱 I’m currently learning: **Business Analytics for Data Science Course PYTHON INTERMEDIATE, PostgreSQL. In conclusion improving my skills to become a good data analyst.**
+- 🌱 I’m currently learning: **Business Analytics for Data Science Course, PYTHON INTERMEDIATE, PostgreSQL. In conclusion improving my skills to become a good data analyst.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/damc1610](https://github.com/damc1610)
 
