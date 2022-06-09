@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damc1610&label=Profile%20views&color=0e75b6&style=flat" alt="damc1610" /> </p>
 
-- 🔭 I’m currently working on: Manual to learn how to use Binance to receive cryptocurrency payments through the P2P marketplace.
+- 🔭 I’m currently working on: **Manual to learn how to use Binance to receive cryptocurrency payments through the P2P marketplace.**
 
 - 🌱 I’m currently learning: **Business Analytics for Data Science Course, PYTHON INTERMEDIATE, PostgreSQL. In conclusion improving my skills to become a good data analyst.**
 
